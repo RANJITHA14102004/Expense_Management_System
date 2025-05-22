@@ -1,6 +1,6 @@
 # Expense Management System
 
-An **Expense Management System** designed to streamline expense management system. Developed as part of the **zidio Internship**, the system uses **React** for the frontend, **Spring Boot** for the backend, and **MySQL** for database management. This project supports separate functionalities for **Admin** and **User** roles.
+An **Expense Management System** designed to streamline expense management system. Developed as part of the **Zidio Development Internship**, the system uses **React** for the frontend, **Spring Boot** for the backend, and **MySQL** for database management. This project supports separate functionalities for **Admin** and **User** roles.
 
 ---
 
@@ -16,6 +16,13 @@ An **Expense Management System** designed to streamline expense management syste
 - **Expense Monitoring**: Monitor expenses across the system.
 - **Reports**: Generate reports for analysis.
 
+### User Registration and Authentication (Backend)
+- CRUD operations on core entities.
+- Role-based access control.
+- Exception handling and validation.
+- Logging and error tracking,
+- API documentation with Swagger UI.
+- Used Postman for API Testing.
 ---
 
 ## 🛠️ Technologies Used
@@ -29,7 +36,7 @@ An **Expense Management System** designed to streamline expense management syste
 
 ## 🧑‍💻 My Role
 
-I worked on the **frontend**, implementing:
-- attractive components using react. 
-- Implimentation of differnt features as mentioned aboue.
-- Separation of Admin and User functionalities.
+I worked on the **Backend**, implementing:
+- Designing and maintaining the database schema(using JPA/Hibernate ORM)
+- Developing RESTful API's for core application features.
+- Optimizing Performance and ensuring scalability.
