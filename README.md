@@ -1,6 +1,6 @@
 # Expense Management System
 
-An **Expense Management System** designed to streamline expense tracking and management. Developed as part of the **Infosys Springboard SDE Internship**, the system uses **React** for the frontend, **Spring Boot** for the backend, and **MySQL** for database management. This project supports separate functionalities for **Admin** and **User** roles.
+An **Expense Management System** designed to streamline expense management system. Developed as part of the **zidio Internship**, the system uses **React** for the frontend, **Spring Boot** for the backend, and **MySQL** for database management. This project supports separate functionalities for **Admin** and **User** roles.
 
 ---
 
@@ -29,7 +29,7 @@ An **Expense Management System** designed to streamline expense tracking and man
 
 ## 🧑‍💻 My Role
 
-I worked on the **backend**, implementing:
-- RESTful APIs for expense and user management.
-- Database integration with MySQL using Hibernate.
+I worked on the **frontend**, implementing:
+- attractive components using react. 
+- Implimentation of differnt features as mentioned aboue.
 - Separation of Admin and User functionalities.
