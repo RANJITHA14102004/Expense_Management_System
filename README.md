@@ -37,6 +37,6 @@ An **Expense Management System** designed to streamline expense management syste
 ## 🧑‍💻 My Role
 
 I worked on the **Frontend**, implementing:
-- Designing and maintaining the varies Dashboards.
+- Designing and maintaining the various Dashboards.
 - Role related Features like user and admin.
 - Optimizing Performance and ensuring scalability.
