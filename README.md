@@ -36,7 +36,7 @@ An **Expense Management System** designed to streamline expense management syste
 
 ## 🧑‍💻 My Role
 
-I worked on the **Backend**, implementing:
-- Designing and maintaining the database schema(using JPA/Hibernate ORM)
-- Developing RESTful API's for core application features.
+I worked on the **Frontend**, implementing:
+- Designing and maintaining the varies Dashboards.
+- Role related Features like user and admin.
 - Optimizing Performance and ensuring scalability.
